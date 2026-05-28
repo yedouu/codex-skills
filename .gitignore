@@ -1,0 +1,18 @@
+# Runtime and cache files
+.reference-research/
+.learning-roadmap/
+.business-understanding/
+__pycache__/
+*.pyc
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Code Learning Analyzer"
+  short_description: "Incremental codebase learning maps."
+  default_prompt: "Use $source-code-learning-analyzer to analyze this project incrementally, or use --full to rescan everything."
