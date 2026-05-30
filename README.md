@@ -4,6 +4,7 @@ This repository stores custom Codex Skills.
 
 ## Skills
 
+- `stop-slop`: removes common AI-writing patterns from prose and helps rewrite drafts to sound more direct and human.
 - `reference-solution-researcher`: researches external reference solutions, compares approaches, and creates Codex-ready research notes.
 - `source-code-learning-analyzer`: analyzes unfamiliar source code for learning.
 - `project-business-mapper`: extracts business-domain understanding from a project.
