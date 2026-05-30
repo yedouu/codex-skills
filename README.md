@@ -4,6 +4,7 @@ This repository stores custom Codex Skills.
 
 ## Skills
 
+- `imagegen`: generates or edits raster images, with built-in image generation preferred and CLI fallback documented for advanced cases.
 - `reference-solution-researcher`: researches external reference solutions, compares approaches, and creates Codex-ready research notes.
 - `source-code-learning-analyzer`: analyzes unfamiliar source code for learning.
 - `project-business-mapper`: extracts business-domain understanding from a project.
@@ -24,4 +25,3 @@ skill-name/
 ## Usage
 
 Install or expose a skill by placing it under the Codex skills directory, or by creating a junction/symlink from the Codex skills directory to a skill folder in this repository.
-
